@@ -9,8 +9,16 @@ body {
 
 .head {
   font-size: 2em;
-  color: blueviolet;
+  color: rgba(34, 5, 60, 0.456);
+  height:4em;
+  width: 100%;
+  background-color: #333;
+  padding: 1em;
+  text-align: center;
+} .head span{
+  color: orange;
 }
+
 
 .section_1 {
   background-color: #333;
